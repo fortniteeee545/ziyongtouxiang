@@ -1,17 +1,34 @@
-#蜡笔小新海贼头像
+# Cloudflare 优选IP
 
-#**列表**
-* 1：路飞
-![太阳神](https://github.com/wbxl0/ziyongtouxiang/blob/main/file01/%E8%B7%AF%E9%A3%9E.jpg?raw=true)
-  
-* 2：鹰眼
-![十字](https://github.com/wbxl0/ziyongtouxiang/blob/main/file01/%E9%B9%B0%E7%9C%BC.png?raw=true)
-  
-* 3：黑胡子
-![酒](https://github.com/wbxl0/ziyongtouxiang/blob/main/file01/%E9%BB%91%E8%83%A1%E5%AD%90.jpeg?raw=true)
- 
-* 4：凯多
-![棒子](https://github.com/wbxl0/ziyongtouxiang/blob/main/file01/%E5%87%AF%E5%A4%9A.jpeg?raw=true)
+## 数据源
+* 每 4 小时（UTC+0）自动构建
+* **ipv4.txt** 源采用 [VPS789](https://vps789.com/cfip) 、[WeTest](https://www.wetest.vip/page/cloudflare/address_v4.html)、[CloudFlareYes](https://stock.hostmonit.com/CloudFlareYes)、[CloudflareSpeedTest](https://ip.164746.xyz)、[IPDB](https://ipdb.030101.xyz/bestcfv4)、[HaoGeGe](https://ip.haogege.xyz)、[Uouin](https://api.uouin.com/cloudflare.html)
 
-* 5：香克斯
-![皱眉](https://github.com/wbxl0/ziyongtouxiang/blob/main/file01/%E9%A6%99%E5%85%8B%E6%96%AF.jpeg?raw=true)
+* **ipv6.txt** 源采用 [WeTest（IPV6）](https://www.wetest.vip/page/cloudflare/address_v6.html)、[IPDB（IPV6）](https://ipdb.030101.xyz/bestcfv6)、[CMLiusss（IPV6）](https://addressesapi.090227.xyz/cmcc-ipv6)
+
+
+## 使用
+* ``ipv4.txt``
+```shell
+https://ghfast.top/https://github.com/joname1/BestCFip/blob/main/ipv4.txt
+```
+```shell
+https://raw.gitmirror.com/joname1/BestCFip/refs/heads/main/ipv4.txt
+```
+```shell
+https://raw.githubusercontent.com/joname1/BestCFip/refs/heads/main/ipv4.txt
+```
+
+
+* ``ipv6.txt``
+```shell
+https://ghfast.top/https://github.com/joname1/BestCFip/blob/main/ipv6.txt
+```
+```shell
+https://raw.gitmirror.com/joname1/BestCFip/refs/heads/main/ipv6.txt
+```
+```shell
+https://raw.githubusercontent.com/joname1/BestCFip/refs/heads/main/ipv6.txt
+
+```
+
